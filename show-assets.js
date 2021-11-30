@@ -1,3 +1,3 @@
-export function myAssets() {
+function myAssets() {
     return "Here are your assets";
 });
